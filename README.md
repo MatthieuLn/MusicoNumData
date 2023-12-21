@@ -311,15 +311,4 @@ df.plot.bar( y="nbr_cor", xlabel='identifiant', ylabel='nombre de cordes')
 
 
 
-
-    
-
-    
-
-
-
-```python
-
-```
-
 ![output_5_1](https://github.com/MatthieuLn/MusicoNumData/assets/154553282/7e001d40-ddf5-4166-9aca-658ec79749ae)

@@ -1,0 +1,11 @@
+﻿id;long;larg;haut;nbr_cor;nom_ver;chev_mob;Chev_im;pas_chev
+JP.KT.2;1760;250;180;13;Koto;1;0;0
+JP.KT.3;1730;260;90;13;Koto;1;0;0
+CN.GQ.15;1150;190;120;7;Guqin;0;0;1
+JP.NGK.3;1100;115;90;2;Nigenkin;0;0;1
+CN.YQ.2;663;238;39;38;Yangqin;0;1;0
+JP.GoK.1;1091;126;37;5;Gokin;0;0;1
+JP.IGK.2;1092;107;17;1;Ichigenkin;0;0;1
+CN.GQ.19;1240;190;105;7;Guqin;0;0;1
+CN.YQ.4;700;250;50;28;Yangqin;0;1;0
+CN.GQ.8;1220;204;100;7;Guqin;0;0;1
